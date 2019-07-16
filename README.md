@@ -1,3 +1,3 @@
 # Shinichi Ohno
 
-email: shin1ohno+ghresme@gmail.com
+email: shin1ohno+ghresume@gmail.com
