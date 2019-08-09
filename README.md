@@ -3,10 +3,14 @@
 - Email: shin1ohno+ghresume@gmail.com
 - github Profile: https://github.com/shin1ohno
 
+I am a go-to person for tackling challenging goals in complex situations.
+
+With deep understanding of software enginerring and business maangement, I've directed companies' core businesses and led successes.
+
 # Skills
 
 - Languages/Technologies: Ruby, Objective-C, Java, Swift, SQL
-- Marketing/Business Develpment: Desicion Making, Project Management,  People Management
+- Marketing/Business Develpment: Desicion Making, Project Management, People Management
 
 # Experience
 
