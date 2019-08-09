@@ -10,33 +10,41 @@
 
 # Experience
 
-## Premium Service Business at Cookpad inc.
+## Cookpad inc.
 
-Responsible for business management of Premium Service Subscription Business Division at Cookpad inc.
+### Director of Premium Service Business & Recipe Search
 
-Achieved a V-shaped recovery in 2018 by +50k subscribers increase YonY which was +1k in 2017 by service renewal and payment method optimization.
+JULY 2017 - PRESENT
 
-[See page 16 of IR document](https://pdf.irpocket.com/C2193/drYi/nlX3/fxYr.pdf)
+Led and directed overall management, development and direction of business and projects includes company’s core business, premium service which has 2M subscribers and generates 9 Billions JPY of yearly revenue at Cookpad, the largest recipe site/app and cooking community in Japan, with millions of contributed recipes. 
 
-## Ad Tech Development at Cookpad inc.
+- Led a V-shaped recovery in 2018 by +50k subscribers increase YonY which was +1k in 2017 by service renewal and payment method optimization
+- Recruited all new members and built a team of 40 members
 
-Responsible for Ad-tech development of Ad Business Division at Cookpad inc.
+### Director of Ad Tech Development
 
-Achieved high growth of Smartphone display ad business by 200M+ yen quartery by 
-  - recreating ad server and adopting latest ad technologies
-  - building iOS/Android app display ads from scratch
-  - launching programmatic advertising sales business
+JANUARY  2016 - JUNE 2017
+
+Ad business is a second largest business of Cookpad which has 5 billions  JPY of yearly revenue. As a director of ad tech development team,  I led dramatic growth of Smartphone display ad business by 200M+ yen quarterly by;
+
+- recreating ad server and adopting latest ad technologies
+- building iOS/Android app display ads from scratch
+- launching programmatic advertising sales business
 
 [See page 27 of IR document](https://pdf.irpocket.com/C2193/Wc5N/Cdi4/Rx1y.pdf)
 
-## New Business Development at Cookpad inc.
+### Engineer, New Business Development & Ad Tech Development
 
-## Ad Sales at Cookpad inc.
+2012 - 2016
 
-## Media Business Development at CNET Japan
+### Director, Strategic Planning of Ad Business
 
-## Media Business Development at My Navi(Mainichi Communications)
+2009 - 2014
 
-## Editor as an Indepent Contractor
+## CNET NETWORKS JAPAN INC.
 
-# Education
+Editor in chief of ZDNet Japan(MAY 2007 - APRIL 2009)
+
+## MAINICHI COMMUNICATIONS INC.
+
+Editor, MyNavi News(JUNE 1999 - APRIL 2007)
