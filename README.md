@@ -16,14 +16,24 @@ With deep understanding of software enginerring and business maangement, I've di
 
 ## Cookpad inc.
 
+### Senior PM of Cookpad Global recipe service
+
+2020 - PRESENT
+
+Led some projects of Companys' core service which is recipe share and serch service like we have in Japan.
+
+- Improved the payment system and experience
+- Led a project to curate recipes into 'books' of cretain theme
+- Led SEO related changes which results in improvement of direct back rate
+
 ### Director of Premium Service Business & Recipe Search
 
-JULY 2017 - PRESENT
+JULY 2017 - 2019
 
 Led and directed overall management, development and direction of business and projects includes company’s core business, premium service which has 2M subscribers and generates 9 Billions JPY of yearly revenue at Cookpad, the largest recipe site/app and cooking community in Japan, with millions of contributed recipes. 
 
 - Led a V-shaped recovery in 2018 by +50k subscribers increase YonY which was +1k in 2017 by service renewal and payment method optimization
-- Recruited all new members and built a team of 40 members
+- Recruited all new members and built a team of 40 members from the scratch
 
 ### Director of Ad Tech Development
 
