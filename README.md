@@ -5,7 +5,7 @@
 
 I am a go-to person for tackling challenging goals in complex situations.
 
-With deep understanding of software enginerring and business maangement, I've directed companies' core businesses and led successes.
+With deep understanding of software enginerring and business mangement, I've directed companies' core businesses and led successes.
 
 # Skills
 
