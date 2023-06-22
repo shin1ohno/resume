@@ -1,11 +1,11 @@
 # Shinichi Ohno
 
 - Email: shin1ohno+ghresume@gmail.com
-- github Profile: https://github.com/shin1ohno
+- GitHub Profile: https://github.com/shin1ohno
 
-I am a go-to product manager for tackling challenging goals in complex situations.
+I am a go-to person for tackling challenging goals in complex situations.
 
-With a deep understanding of software engineering and business management, I've directed companies' core businesses and led successes.
+As a product manager with a deep understanding of software engineering and business management, I've directed companies' core businesses and led successes.
 
 # Skills
 
