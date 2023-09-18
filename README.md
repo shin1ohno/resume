@@ -18,7 +18,7 @@ As a product manager with a deep understanding of software engineering and busin
 
 ### Senior PM of Cookpad Global recipe service
 
-2020 - PRESENT
+2020 - JULY 2023
 
 Led some projects of Companys' core service, recipe share and search service as we have in Japan.
 
