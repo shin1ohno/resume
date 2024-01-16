@@ -14,6 +14,12 @@ As a product manager with a deep understanding of software engineering and busin
 
 # Experience
 
+## Mercari Inc.
+
+### Director of Merpay platform
+
+JANUARY 2024 - present
+
 ## Cookpad Inc.
 
 ### Senior PM of Cookpad Global recipe service
