@@ -10,7 +10,7 @@ As a product manager with a deep understanding of software engineering and busin
 # Skills
 
 - Languages/Technologies: Ruby, Objective-C, Java, Swift, SQL
-- Marketing/Business Development: Decision Making, Project Management, People Management
+- Business/Management: Decision Making, Product Management, People Management
 
 # Experience
 
