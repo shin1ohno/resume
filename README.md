@@ -30,7 +30,7 @@ Since 2026, alongside the platform product, I own and lead the project to rebuil
 
 JANUARY 2020 - JULY 2023
 
-Product manager for the recipe sharing and search service outside Japan, the core service of the company's global business. Led a cross-functional team of engineers, designers and every other function, on both web and the mobile apps, across all markets with a focus on Malaysia, Thailand, Latin America and Taiwan. One of several product managers reporting to the VP; market strategy was owned by the country managers, and my role was to turn what they raised into the roadmap of the two pillars I owned, search and payments.
+Product manager for the recipe sharing and search service outside Japan, the core service of the company's global business, available in 76 countries and regions in 34 languages. Led a cross-functional team of engineers, designers and every other function, on both web and the mobile apps, across all markets with a focus on Malaysia, Thailand, Latin America and Taiwan. One of several product managers reporting to the VP; market strategy was owned by the country managers, and my role was to turn what they raised into the roadmap of the two pillars I owned, search and payments.
 
 **Search** — the recipe search engine the service is built on
 
@@ -43,6 +43,8 @@ Product manager for the recipe sharing and search service outside Japan, the cor
 - Implemented payment methods beyond Apple and Google in-app purchase, whose commission was a structural cost problem
 - Decided the payment method per market — in-app purchase or card payment through Stripe — weighing how widely each method was adopted locally against currency volatility
 - Rebuilt the checkout experience; the impact was largest in Latin America
+
+[See the company release for the service scale](https://www.prnewswire.com/news-releases/cookpad-inc-holding-academic-research-idea-contest-to-provide-research-support-on-global-cooking-301456035.html)
 
 ### Director of Premium Service Business & Recipe Search
 
