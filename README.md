@@ -30,7 +30,7 @@ Since 2026, alongside the platform product, I have owned and led the project to 
 
 JANUARY 2020 - JULY 2023
 
-Product manager for the recipe sharing and search service outside Japan, the core service of the company's global business — Cookpad reaches more than 100 million people a month across 70+ regions and 30+ languages. Led a cross-functional team spanning engineering, design and every other function, covering both the web and the mobile apps, across all markets with a focus on Malaysia, Thailand, Latin America and Taiwan. One of several product managers reporting to the VP; market strategy was owned by the country managers, and my role was to turn what they raised into the roadmap of the two pillars I owned, search and payments.
+Product manager for the recipe sharing and search service outside Japan, the core service of the company's global business — Cookpad reaches more than 100 million people a month across 70+ regions and 30+ languages. Led a cross-functional team spanning engineering, design and every other function, covering both the web and the mobile apps, across all markets with a focus on Malaysia, Thailand, Latin America and Taiwan. One of several product managers reporting to the VP. I owned two pillars, search and payments, and shaped their roadmap around what the country managers raised. On marketing, I set the priorities between countries and ran regional strategy and execution together with the country managers.
 
 **Search** — the recipe search engine the service is built on
 
