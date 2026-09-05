@@ -16,21 +16,33 @@ As a product manager with a deep understanding of software engineering and busin
 
 ## Mercari Inc.
 
-### Director of Merpay platform
+### Director of Merpay platform product
 
 JANUARY 2024 - present
 
+Director of a product management organization of four teams at Merpay, Mercari's payment service. The scope covers the internal transaction management and identity verification platforms, and the consumer-facing checkout and KYC experience. It started as the payment & customer platform and has since taken on the growth platform as well.
+
+Since 2026, alongside the platform product, I own and lead the project to rebuild Merpay's reward program.
+
 ## Cookpad Inc.
 
-### Senior PM of Cookpad Global recipe service
+### Senior Product Manager, Cookpad Global recipe service
 
-2020 - JULY 2023
+JANUARY 2020 - JULY 2023
 
-Led some projects of Companys' core service, recipe share and search service as we have in Japan.
+Product manager for the recipe sharing and search service outside Japan, the core service of the company's global business. Led a cross-functional team of engineers, designers and every other function, on both web and the mobile apps, across all markets with a focus on Malaysia, Thailand, Latin America and Taiwan. One of several product managers reporting to the VP; market strategy was owned by the country managers, and my role was to turn what they raised into the roadmap of the two pillars I owned, search and payments.
 
-- Improved the payment system and experience
-- Led a project to curate recipes into 'books' of a certain theme
-- Led SEO-related changes, which resulted in the improvement of direct back rate
+**Search** — the recipe search engine the service is built on
+
+- Structured and standardized recipe metadata as the foundation for ranking and discovery
+- Tuned the search algorithm on Elasticsearch
+- Optimized the search result pages for SEO, which improved the bounce rate
+
+**Payments**
+
+- Implemented payment methods beyond Apple and Google in-app purchase, whose commission was a structural cost problem
+- Decided the payment method per market — in-app purchase or card payment through Stripe — weighing how widely each method was adopted locally against currency volatility
+- Rebuilt the checkout experience; the impact was largest in Latin America
 
 ### Director of Premium Service Business & Recipe Search
 
